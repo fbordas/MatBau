@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NanayaSettings" GeneratedClassName="Users">
+  <Profiles />
+  <Settings>
+    <Setting Name="MasterToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Ch0kushiNoM4gan!</Value>
+    </Setting>
+    <Setting Name="Tokens" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
